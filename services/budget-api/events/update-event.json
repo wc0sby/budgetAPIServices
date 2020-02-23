@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"new edited budget entry\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "91bd7210-5583-11ea-b001-8d1ed4cb2c01"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "admin@example.com"
+    }
+  }
+}

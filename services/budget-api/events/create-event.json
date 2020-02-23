@@ -1,0 +1,9 @@
+{
+  "body": "{\"content\":{\"item1\":\"my first budget\",\"item2\":\"my second budget\"},\"attachment\":\"hello.jpg\"}",
+  "headers": {"Access-Control-Allow-Origin": "*"},
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "admin@example.com"
+    }
+  }
+}
