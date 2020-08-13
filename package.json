@@ -5,7 +5,7 @@
   "main": "config.js",
   "dependencies": {
     "aws-xray-sdk": "^2.3.6",
-    "serialize-javascript": "^3.0.0"
+    "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
     "aws-sdk": "^2.541.0",
